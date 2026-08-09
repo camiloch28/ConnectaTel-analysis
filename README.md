@@ -69,4 +69,5 @@ No se requieren pasos manuales adicionales entre celdas — todas las transforma
 
 🔗 Repositorio
 
-Link al repositorio público del proyecto: [LINK a tu repo aquí]
+Link al repositorio público del proyecto: https://github.com/camiloch28/ConnectaTel-analysis
+https://colab.research.google.com/drive/1CsichDkbkjpjfWb1hDDPBmRTpUZadRc2?usp=sharing
